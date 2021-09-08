@@ -27,7 +27,7 @@ if(isset($_POST['upload'])) {
 <html>
     <head>
         <title>Upload Video into the Database</title>
-        <link rel="stylesheet" type="text/css" href="style\css\bootstrap.min.css">
+        <link rel="stylesheet" type="text/css" href="bootstrap.min.css">
 <style>
 body{
     background:#d4b4b4;
