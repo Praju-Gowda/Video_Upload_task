@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <link rel="stylesheet" type="text/css" href="style\css\bootstrap.min.css">
+        <link rel="stylesheet" type="text/css" href="bootstrap.min.css">
         <title>Display All Videos</title>
 <style>
 body{
